@@ -1,5 +1,6 @@
 {
   "packs": [
+    "sticker_pack.json",
     "IlluminatiCringe.json",
     "Baaab_by_demybot.json",
     "FourChanMemes.json",
@@ -12,8 +13,7 @@
     "pepekoskeshsad.json",
     "ChudToken.json",
     "Soyjack_pack.json",
-    "Soyboyjack.json",
-    "sticker_pack.json"
+    "Soyboyjack.json"
   ],
   "homeserver_url": "https://matrix.vexillomancy.org"
 }
